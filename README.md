@@ -1,4 +1,5 @@
-# Vuetify Shopfiy E-Commerce Theme
+# Vuetify Shopify E-Commerce Theme
+Purchasable through the Vuetify Store. [Buy now](https://store.vuetifyjs.com/product/shopify-e-commerce-theme).
 
 Thank you for purchasing the theme
 
